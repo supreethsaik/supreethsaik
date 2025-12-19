@@ -2,7 +2,7 @@
 
 I'm Supreeth, a newbie data scientist/analyst ... well I'm trying and learning everyday 🫣
 
-By profession I am a Biomedical Engineer...Mechanical Engineer..Electronics Engineer?(I mean I took a minor in it)
+By profession I am a Biomedical Engineer...Mechanical Engineer...Electronics Engineer?(I mean I took a minor in it)
 
 I love seeing cool designs, projects, and porfolios, as a kid I've been pretty artistic but I lost it on the way, so NOW I'm trynna use tech to bring it to life and showcase it day-by-day!
 I share my designs, research findings, data-driven projects as a way to keep track of my progress, so I can learn and improve everyday.
