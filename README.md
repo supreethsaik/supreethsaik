@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Supreeth, a newbie data scientist/analyst ... well I'm trying and learning everyday 🫣
+I'm Supreeth, a NPD Engineer  ... well I'm trying and learning everyday 🫣
 
 By profession I am a Biomedical Engineer...Mechanical Engineer...Electronics Engineer?(I mean I took a minor in it)
 
